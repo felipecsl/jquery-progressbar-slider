@@ -1,0 +1,5 @@
+﻿.meter-wrap { background: url(Images/progressbar.png) no-repeat; width: 92px; height: 13px; padding: 1px 2px; float: left; position: relative; }
+.meter-wrap .meter-value { background: url(Images/progressbar_percent.png) repeat-x; width: 0%; height: 13px; }
+.meter-wrap .meter-text { position: absolute; top:0; left:0; color: #777; text-align: center; width: 100%; }
+.meter-dropdown { background: url(Images/dropdown.png); width: 7px; height: 6px; margin: 5px 0 0 5px; float: left; cursor: pointer; }
+.slider-vertical { margin-left:100px; position:absolute; display: none; }
